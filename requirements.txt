@@ -1,5 +1,4 @@
 PyQt5
 pywhatkit
 pyautogui
-mysql-connector-python
 python-dotenv
